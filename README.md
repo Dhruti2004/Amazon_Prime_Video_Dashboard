@@ -9,8 +9,6 @@
 - Director and genre statistics
 - Country-wise content availability
 
-📁 **Dashboard File:** [Amazon_Prime_Video.pdf](./Amazon_Prime_Video.pdf)
-
 📌 **Dataset Source:** Kaggle – [Amazon Prime Video Dataset](https://www.kaggle.com/datasets)
 
 💡 Built using Power BI Desktop.
